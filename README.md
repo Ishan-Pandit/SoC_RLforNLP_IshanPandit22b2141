@@ -9,4 +9,4 @@ Project ID 5 = RL for NLP
 Additional resources used for Reinforcement are David Silver's lectures:
 https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 
-I found it a bit difficult to complete all requirements due to intern work as well as other project work. However, the mentors have done a great job and I am eager to complete the project before the endterm checkpoint successfully!
+Attached the required assignment codes to the repo. Moreover, the mentors have done a great job and I am eager to complete the project before the endterm checkpoint successfully!
